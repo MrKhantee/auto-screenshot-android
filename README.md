@@ -5,6 +5,9 @@ This library helps you easily upload screenshots of your app that contains local
 
 **NOTE:** This library is **not designed for distribution** on Google Play Store so remember to **remove** before submission.
 
+[Screenshot](Screenshot_2020-04-21-22-29-20.png)
+[Screenshot](Screenshot_2020-04-21-22-29-53.png)
+
 Installation
 ------------
 **NOTE**: _This library is now available on maven central (`v0.7.0` or above), if you are updating from previous versions, remove the github repository block from `pom.xml` or `build.gradle`_
